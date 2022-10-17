@@ -16,7 +16,6 @@ download and copy additional files
 git clone https://codeberg.org/Yurii/lite-xl-2.1.0-build_guide.git && cd lite-xl-2.1.0-build_guide/
 sudo cp files/lua5.4.pc /usr/lib/pkgconfig/ && sudo cp files/include/* /usr/include/
 cd ..
-
 ```
 
 next download source code using that command: 
